@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "name": "Public node Wcode",
+      "url": "public.explorerwcode.org",
+      "port": 51898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Public reserve node",
+      "url": "public-reserve.explorerwcode.org",
+      "port": 51898,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
